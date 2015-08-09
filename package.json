@@ -1,0 +1,15 @@
+{
+  "name": "backtopjs-demo",
+  "version": "1.0.0",
+  "description": "backstopjs demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin To",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^0.5.1",
+    "gulp": "^3.9.0"
+  }
+}
