@@ -22,7 +22,7 @@
       "url": "http://s.codepen.io/qkevinto/debug/vOPgJq?",
       "hideSelectors": [],
       "removeSelectors": [
-        "#codepen-footer"
+        "#advertisment"
       ],
       "selectors": [
         "#header",
