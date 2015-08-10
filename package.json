@@ -9,6 +9,6 @@
   "author": "Kevin To",
   "license": "ISC",
   "devDependencies": {
-    "backstopjs": "^0.5.1",
+    "backstopjs": "^0.5.1"
   }
 }
